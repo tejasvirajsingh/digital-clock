@@ -12,7 +12,7 @@ A **beautiful** and **lightweight** digital clock that shows the current time in
 
 ---
 
-## 🎯 Visit to Site.
+# 🎯 Visit to Site.
 🚀 (https://digitalclockmax.netlify.app) 🚀  
 ---
 ## 💻 How to Run Locally
@@ -24,3 +24,4 @@ A **beautiful** and **lightweight** digital clock that shows the current time in
 
 ## 📜 License
 🆓 This project is **open-source** and free to use. Share it, improve it, and make it yours! 💖
+
