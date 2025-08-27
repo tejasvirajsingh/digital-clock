@@ -1,7 +1,8 @@
 # ⏰ Digital Clock
 
 A simple digital clock project made using **HTML, CSS, and JavaScript**.
-
+    
+## Visit The Profile https://tejasvirajsingh.github.io/digital-clock/
 ## Features
 - Displays real-time digital clock
 - Responsive design
